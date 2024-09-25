@@ -7,11 +7,13 @@
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
 # ALGORITHM:
+```
 STEP 1:Read the given Data.
 STEP 2:Clean the Data Set using Data Cleaning Process.
 STEP 3:Apply Feature Encoding for the feature in the data set.
 STEP 4:Apply Feature Transformation for the feature in the data set.
 STEP 5:Save the data to the file.
+```
 
 # FEATURE ENCODING:
 1. Ordinal Encoding
@@ -187,8 +189,6 @@ sm.qqplot(df["Highly Negative Skew_1"],line='45')
 plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/1119ad81-8494-4c7d-ab56-74e1ab2c5b33)
-
-
 
 
 # RESULT:
